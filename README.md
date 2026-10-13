@@ -830,7 +830,7 @@
       <li><a href="#about">عن الجامعة</a></li>
       <li><a href="#programs">الكليات</a></li>
       <li><a href="#news">الأخبار</a></li>
-      <li><a href="#contact">اتصل بنا</a></li> 01273111734
+      <li><a href="#contact">اتصل بنا 01273111734</a></li> 
     </ul>
 
     <a href="#" class="btn-nav"><i class="fas fa-user-plus"></i> سجل الآن</a>
