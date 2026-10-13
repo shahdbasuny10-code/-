@@ -820,8 +820,8 @@
     <div class="logo">
       <div class="logo-icon"><i class="fas fa-graduation-cap"></i></div>
       <div class="logo-text">
-        جامعة المستقبل
-        <small>FUTURE UNIVERSITY</small>
+        جامعة المنصوره الاهليه 
+        <small>Mansura National UNIVERSITY</small>
       </div>
     </div>
 
@@ -830,7 +830,7 @@
       <li><a href="#about">عن الجامعة</a></li>
       <li><a href="#programs">الكليات</a></li>
       <li><a href="#news">الأخبار</a></li>
-      <li><a href="#contact">اتصل بنا</a></li>
+      <li><a href="#contact">اتصل بنا</a></li> 01273111734
     </ul>
 
     <a href="#" class="btn-nav"><i class="fas fa-user-plus"></i> سجل الآن</a>
