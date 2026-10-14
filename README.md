@@ -830,7 +830,8 @@
       <li><a href="#about">عن الجامعة</a></li>
       <li><a href="#programs">الكليات</a></li>
       <li><a href="#news">الأخبار</a></li>
-      <li><a href="#contact">اتصل بنا 01273111734</a></li> 
+      <!-- لينك قابل للضغط يفتح الاتصال -->
+<a href="tel:01012345678">01012345678</a>
     </ul>
 
     <a href="#" class="btn-nav"><i class="fas fa-user-plus"></i> سجل الآن</a>
